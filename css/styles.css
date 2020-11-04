@@ -1,0 +1,210 @@
+#title{
+    background-color:	#000000;
+    color: #fff;
+}
+
+h1{
+
+    font-family: "IM Fell Double Pica SC";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+body{
+    font-family: "IM Fell Double Pica SC";
+}
+  .container-fluid{
+    padding : 3% 15% 12%;
+  }
+
+  
+  .Naruto{
+    width: 250px;
+    height: 550px;
+    position : absolute;
+    right: 0%;
+  }
+  @media (max-width:1028px){
+ 
+    .Naruto{
+
+      position : static;
+    
+    }
+
+
+  }
+
+  .navbar-brand{
+  font-family: "IM Fell Double Pica SC";
+  font-size: 2.5rem;
+  font-weight: bold;
+  
+  }
+  .navbar-dark .navbar-brand{
+    color:red;
+  }
+
+  .navbar-dark .navbar-nav .nav-link{
+    color:red;
+  }
+  .navbar{
+    padding: 0 0 4.5rem;
+  }
+
+  .nav-item{
+    padding : 0 18px;
+  }
+
+  .nav-link{
+    font-size: 1.2rem;
+    font-family:"Ubuntu Condensed"; 
+  }
+
+  .download-button{
+    margin:5% 3% 5% 0;
+    width: 25%;
+  }
+
+  #features{
+    padding : 7% 15%;
+  }
+
+  .feature-box{
+    text-align: center;
+    padding : 7%;
+  }
+
+  h3{
+    font-family: "Fira Sans";
+  }
+
+  p{
+    color: gray;
+  }
+
+  .icon{
+    color: red;;
+    margin-bottom: 1rem ;
+  }
+
+  .icon:hover{
+    color:#000;
+  }
+
+  #testimonials{
+   
+    text-align: center;
+    background-color:	#000000;
+    color: #fff;
+  }
+  .carousel-item{
+    padding : 7% 15%;
+  }
+
+  h2{
+    font-family: "IM Fell Double Pica SC";
+  }
+
+  .space{
+    height: 150px;
+  }
+
+  .raichi{
+    height:200px;
+    width: 200px;
+    margin: 20px;
+
+  }
+
+  .quote{
+    padding-top: 100px;
+  }
+
+  .luffy{
+   height: 200px; 
+   width: 200px; 
+   margin: 20px;
+  }
+
+  .shanks{
+    width: 200px;
+    height:200px;
+     margin: 20px;
+  }
+
+  #pricing{
+
+    padding :100px;
+    text-align: center;
+  }
+
+  #pirate{
+    font-family:"IM Fell Double Pica SC" ;
+    font-size: 2rem;
+    color:#fff;
+  }
+  #soul-reaper{
+    font-family:"IM Fell Double Pica SC" ;
+    font-size: 2rem;
+    color:#fff;
+  }
+  #ninja{
+    font-family:"IM Fell Double Pica SC" ;
+    font-size: 2rem;
+    color:#fff;
+  }
+
+  .card-header{
+    background-color: #000;
+  }
+
+  #abc{
+    padding:0px 150px;
+  }
+  .team{
+    font-size: 4rem;
+  }
+
+  .strawhat{
+
+    width: 100px;
+    height: 100px;
+    margin:20px;
+  }
+
+  .reaper{
+
+    width: 100px;
+    height: 100px;
+    margin:20px;
+  }
+
+  .ninjaimg{
+    width: 100px;
+    height: 100px;
+    margin:20px;
+
+  } 
+
+  #cta{
+    background-color: #000;
+    color: #fff;
+    padding: 7% 15%;
+    text-align: center;
+  }
+
+  #bottom-text{
+    padding:10px 300px;
+  }
+
+  #footer{
+    padding: 1% 15%;
+    text-align: center;
+    font-size: 1rem;
+  }
+  .book{
+    margin-left: 20px;
+  }
+  #rules{
+    font-size: 2rem;
+  }
